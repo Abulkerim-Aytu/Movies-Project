@@ -1,14 +1,13 @@
-package com.aytu.movies.controller;
+package com.aytu.moviest.controller;
 
-import com.aytu.movies.model.Review;
-import com.aytu.movies.service.ReviewService;
+import com.aytu.moviest.service.ReviewService;
+import com.aytu.moviest.model.Review;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
-import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/v1/reviews")

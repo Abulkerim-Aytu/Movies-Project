@@ -1,7 +1,7 @@
-package com.aytu.movies.controller;
+package com.aytu.moviest.controller;
 
-import com.aytu.movies.model.Movie;
-import com.aytu.movies.service.MovieService;
+import com.aytu.moviest.service.MovieService;
+import com.aytu.moviest.model.Movie;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,8 +1,8 @@
-package com.aytu.movies.service;
+package com.aytu.moviest.service;
 
-import com.aytu.movies.model.Movie;
-import com.aytu.movies.model.Review;
-import com.aytu.movies.repository.ReviewRepository;
+import com.aytu.moviest.model.Movie;
+import com.aytu.moviest.model.Review;
+import com.aytu.moviest.repository.ReviewRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
@@ -10,7 +10,6 @@ import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
-import java.util.Optional;
 
 @Service
 public class ReviewService {

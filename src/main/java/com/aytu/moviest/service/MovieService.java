@@ -1,7 +1,7 @@
-package com.aytu.movies.service;
+package com.aytu.moviest.service;
 
-import com.aytu.movies.model.Movie;
-import com.aytu.movies.repository.MovieRepository;
+import com.aytu.moviest.model.Movie;
+import com.aytu.moviest.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

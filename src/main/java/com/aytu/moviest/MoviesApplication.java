@@ -1,4 +1,4 @@
-package com.aytu.movies;
+package com.aytu.moviest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

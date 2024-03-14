@@ -1,4 +1,4 @@
-package com.aytu.movies.model;
+package com.aytu.moviest.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

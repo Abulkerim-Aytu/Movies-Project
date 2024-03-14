@@ -1,6 +1,6 @@
-package com.aytu.movies.repository;
+package com.aytu.moviest.repository;
 
-import com.aytu.movies.model.Movie;
+import com.aytu.moviest.model.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
