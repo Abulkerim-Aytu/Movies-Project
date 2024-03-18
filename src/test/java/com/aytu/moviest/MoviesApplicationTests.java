@@ -1,4 +1,4 @@
-package com.aytu.movies;
+package com.aytu.moviest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
